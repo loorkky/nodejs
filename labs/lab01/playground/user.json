@@ -1,0 +1,18 @@
+{
+  "firstname": "Jane",
+  "lastname": " Smith",
+  "languages": [
+    {
+      "title": "NodeJS",
+      "level": "Beginner"
+    },
+    {
+      "title": "JavaScript",
+      "level": "Junior"
+    },
+    {
+      "title": "Python",
+      "level": "Intermediate"
+    }
+  ]
+}
